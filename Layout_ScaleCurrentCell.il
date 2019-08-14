@@ -1,0 +1,6 @@
+procedure(scaleCurrentCell(mag)
+	prog( (cvid)
+		cvid = deGetCellView()
+		dbTransformCellView(cvid float(mag) 0.0)
+	)
+)

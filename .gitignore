@@ -1,0 +1,8 @@
+# Ignore everything (make this a whitelist)
+*
+
+# Allow .il files
+!*.il
+
+# Allow .gitignore
+!.gitignore
