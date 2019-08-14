@@ -6,3 +6,6 @@
 
 # Allow .gitignore
 !.gitignore
+
+# Allow README.md
+!README.md
